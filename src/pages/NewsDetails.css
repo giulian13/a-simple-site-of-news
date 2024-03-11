@@ -1,4 +1,3 @@
-/* Stilizam html-ul venit de la The Guardian. */
 .NewsDetails {
   text-align: left;
 }
@@ -27,7 +26,6 @@
   font-size: 0.875rem;
 }
 
-/* Selectam iframe-urile care au ca valoare a atributului src un sir ce contine subsirul "youtube". */
 .NewsDetails iframe[src*="youtube"] {
   width: 100%;
   aspect-ratio: 16 / 9;

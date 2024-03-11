@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import "./Header.css";
 import Container from "react-bootstrap/Container";
+import logo from "../images/a-simple-site-logo.png";
 
 function Header() {
   const [isDisplayed, setIsDisplayed] = useState(false);
@@ -20,10 +21,7 @@ function Header() {
       <nav className="nav bg-primary w-100">
         <Container className="d-flex justify-content-between align-items-center">
           <Link to="/" className="p-3">
-            <img
-              src="https://itschool.ro/images/logo-itschool-dark.svg"
-              alt="itschool logo"
-            />
+            <img src={logo} alt="aSiteOfNews logo" />
           </Link>
           <div className="menu-icon-container">
             <span
