@@ -1,0 +1,10 @@
+.favoriteNotification {
+  position: fixed !important;
+  top: 10px;
+  left: 10px;
+
+  z-index: 3;
+
+  width: 600px;
+  height: 100px;
+}
