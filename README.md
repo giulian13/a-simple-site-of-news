@@ -8,7 +8,7 @@ The React project from my web development course @ IT School
 
 ### Links
 
-- Live Site URL: [Live site]()
+- Live Site URL: [Live site](https://a-site-of-news.netlify.app/)
 
 ## My process
 
