@@ -17,6 +17,7 @@ The React project from my web development course @ IT School
 - Implement and use The Guardian API.
 - I separated the news into diferent categories.
 - Adding/removing favorites functionality.
+- Save the favorites to localStorage
 - Implement pagination.
 
 ### Built with
@@ -27,6 +28,8 @@ The React project from my web development course @ IT School
 - Flexbox
 - React JS
 - React bootstrap
+- React hooks (useState, useEffect, useReducer, useContext)
+- Custom hooks
 - The Guardian API
 
 ## Author
