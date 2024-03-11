@@ -1,3 +1,4 @@
+// I know that it's not a good idea to post my API KEY on github, but for the power of exemple (and lack of backend server) i chose to post it.
 const API_KEY = "59a95bc5-5f65-44b3-bad3-1f9ff99c6e46";
 
 export function getNewsCategoriesEndpoint(
